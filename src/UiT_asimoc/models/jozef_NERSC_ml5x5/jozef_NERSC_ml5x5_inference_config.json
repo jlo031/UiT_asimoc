@@ -1,0 +1,15 @@
+{
+    "model": "UNET",
+    "patch_height": 102,
+    "patch_width": 102,
+    "batch_size": 64,
+    "step_size": 34,
+    "pth_path": "/home/jo/work/UiT_asimoc/src/UiT_asimoc/models/jozef_NERSC_ml5x5/jozef_NERSC_ml5x5_inference_config.pth",
+    "mean_channel_1": -15.61,
+    "mean_channel_2": -26.31,
+    "mean_channel_3": 35.85,
+    "SD_channel_1": 6.15,
+    "SD_channel_2": 2.54,
+    "SD_channel_3": 7.06,
+    "noise_correction": "NERSC"
+}
